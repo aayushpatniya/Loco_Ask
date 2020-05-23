@@ -1,0 +1,2 @@
+# Loco_Ask
+It is Web Application built on Java. For frontend technologies used are HTML, CSS, JavaScript, AJAX and the database used is MySQL. Java is used for back-end connectivity. This app provides with the interface for train enquiry. Information like- trains between two stations, trains arriving at an station etc. with their proper timing can obtained using the app. It is primarily built to assist students in their project work. 
